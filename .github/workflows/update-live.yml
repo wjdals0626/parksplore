@@ -1,0 +1,28 @@
+# 팍스플로어 - 공연/날씨/주차 데이터 갱신 후 GitHub Pages 배포
+# 필요 Secrets: KMA_KEY (공공데이터포털 Encoding 인증키)
+name: update-live-data
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 30분마다 (주차·날씨)
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency: { group: pages, cancel-in-progress: true }
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment: { name: github-pages }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Fetch live data
+        env: { KMA_KEY: "${{ secrets.KMA_KEY }}" }
+        run: python scripts/fetch_live.py web/data/live.json
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: web }
+      - uses: actions/deploy-pages@v4

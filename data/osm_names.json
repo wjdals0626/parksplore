@@ -1,0 +1,2241 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-18T00:09:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 368603219,
+  "lat": 37.5154353,
+  "lon": 127.1342031,
+  "tags": {
+    "amenity": "police",
+    "name": "오륜치안센터",
+    "name:en": "Oryun Community Policing Center",
+    "name:ko": "오륜치안센터",
+    "name:ko-Latn": "Oryunchiansenteo"
+  }
+},
+{
+  "type": "node",
+  "id": 368900221,
+  "lat": 37.5154340,
+  "lon": 127.1342150,
+  "tags": {
+    "amenity": "townhall",
+    "name": "오륜동 주민센터",
+    "name:en": "Oryundong Community Service Center",
+    "name:ko": "오륜동 주민센터",
+    "name:ko-Latn": "Oryundong Juminsenteo",
+    "name:zh": "五运洞社区服务中心"
+  }
+},
+{
+  "type": "node",
+  "id": 368921946,
+  "lat": 37.5218428,
+  "lon": 127.1299430,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "2",
+    "name": "서울체육중학교",
+    "name:en": "Seoul Middle School of Physical Education",
+    "name:ja": "ソウル体育中学校",
+    "name:ko": "서울체육중학교",
+    "name:ko-Latn": "Seoulcheyukjunghakgyo"
+  }
+},
+{
+  "type": "node",
+  "id": 368929172,
+  "lat": 37.5185670,
+  "lon": 127.1337150,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "서울세륜초등학교",
+    "name:en": "Seoul Seryun Elementary School",
+    "name:ko": "서울세륜초등학교",
+    "name:ko-Latn": "Seoulseryunchodeunghakgyo",
+    "name:zh": "首尔世润小学",
+    "wikidata": "Q19483896"
+  }
+},
+{
+  "type": "node",
+  "id": 2111938467,
+  "lat": 37.5152183,
+  "lon": 127.1327382,
+  "tags": {
+    "amenity": "bank",
+    "brand": "하나은행",
+    "brand:en": "KEB Hana Bank",
+    "brand:ko": "하나은행",
+    "brand:wikidata": "Q484047",
+    "brand:wikipedia": "en:Korea Exchange Bank",
+    "name": "하나은행",
+    "name:en": "KEB Hana Bank",
+    "name:ko": "하나은행"
+  }
+},
+{
+  "type": "node",
+  "id": 2111938470,
+  "lat": 37.5154395,
+  "lon": 127.1332102,
+  "tags": {
+    "amenity": "bank",
+    "brand": "신한은행",
+    "brand:en": "Shinhan Bank",
+    "brand:ko": "신한은행",
+    "brand:wikidata": "Q487230",
+    "brand:wikipedia": "en:Shinhan Bank",
+    "name": "신한은행",
+    "name:en": "Shinhan Bank",
+    "name:ko": "신한은행",
+    "name:zh": "新韩银行"
+  }
+},
+{
+  "type": "node",
+  "id": 2111938475,
+  "lat": 37.5159671,
+  "lon": 127.1325665,
+  "tags": {
+    "amenity": "bank",
+    "brand": "KB국민은행",
+    "brand:en": "KB Kookmin Bank",
+    "brand:ko": "KB국민은행",
+    "brand:wikidata": "Q496606",
+    "brand:wikipedia": "en:KB Financial Group Inc",
+    "name": "KB국민은행",
+    "name:en": "KB Kookmin Bank",
+    "name:ja": "国民銀行",
+    "name:ko": "KB국민은행"
+  }
+},
+{
+  "type": "node",
+  "id": 2111938483,
+  "lat": 37.5171027,
+  "lon": 127.1298091,
+  "tags": {
+    "amenity": "bank",
+    "name": "외환은행"
+  }
+},
+{
+  "type": "node",
+  "id": 2111938487,
+  "lat": 37.5160522,
+  "lon": 127.1317297,
+  "tags": {
+    "amenity": "bank",
+    "name": "외환은행"
+  }
+},
+{
+  "type": "node",
+  "id": 3396247961,
+  "lat": 37.5155875,
+  "lon": 127.1343040,
+  "tags": {
+    "amenity": "police",
+    "name": "올림픽아파트파출소"
+  }
+},
+{
+  "type": "node",
+  "id": 4161210522,
+  "lat": 37.5217564,
+  "lon": 127.1305402,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "3",
+    "name": "서울체육고등학교",
+    "name:en": "Seoul High School of Physical Education",
+    "name:ja": "ソウル体育高等学校"
+  }
+},
+{
+  "type": "node",
+  "id": 4648731579,
+  "lat": 37.5198382,
+  "lon": 127.1308611,
+  "tags": {
+    "historic": "monument",
+    "name": "천마상",
+    "name:ja": "天馬像"
+  }
+},
+{
+  "type": "node",
+  "id": 11881174993,
+  "lat": 37.5171812,
+  "lon": 127.1292265,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "엄지손가락",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13805209905,
+  "lat": 37.5164880,
+  "lon": 127.1278326,
+  "tags": {
+    "addr:city": "송파구",
+    "addr:housenumber": "424",
+    "addr:province": "서울특별시",
+    "addr:street": "올림픽로",
+    "amenity": "theatre",
+    "name": "K-아트홀(태권도공연장)"
+  }
+},
+{
+  "type": "way",
+  "id": 75956846,
+  "center": {
+    "lat": 37.5147322,
+    "lon": 127.1275874
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "424",
+    "addr:postcode": "05540",
+    "addr:street": "올림픽로",
+    "addr:subdistrict": "방이동",
+    "amenity": "theatre",
+    "building": "commercial",
+    "name": "올림픽홀",
+    "name:en": "Olympic Hall",
+    "name:ja": "オリンピックホール",
+    "name:zh": "奥林匹克大厅"
+  }
+},
+{
+  "type": "way",
+  "id": 75956847,
+  "center": {
+    "lat": 37.5145658,
+    "lon": 127.1288133
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "올림픽공원 실내테니스장",
+    "name:en": "Olympic Park Indoor Tennis Court",
+    "name:ja": "オリンピック公園 室内テニス場",
+    "name:ko": "올림픽공원 실내테니스장",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 75956848,
+  "center": {
+    "lat": 37.5136051,
+    "lon": 127.1281484
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "leisure": "pitch",
+    "name": "올림픽공원 실내테니스장",
+    "name:en": "Olympic Park Indoor Tennis Court",
+    "name:ja": "オリンピック公園 室内テニス場",
+    "name:ko": "올림픽공원 실내테니스장",
+    "name:zh": "奥林匹克公园室内网球场",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 75956849,
+  "center": {
+    "lat": 37.5138270,
+    "lon": 127.1261444
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "amenity": "conference_centre",
+    "building": "yes",
+    "name": "올림픽컨벤션센터",
+    "name:en": "Olympic Convention Center",
+    "name:ja": "オリンピックコンベンションセンター",
+    "name:ko": "올림픽컨벤션센터",
+    "name:zh": "奥林匹克会议中心"
+  }
+},
+{
+  "type": "way",
+  "id": 75956852,
+  "center": {
+    "lat": 37.5167283,
+    "lon": 127.1250519
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "우리금융아트홀",
+    "name:en": "Woori Capital Art Hall",
+    "name:ja": "ウリ金融アートホール",
+    "theatre:genre": "musical",
+    "wikidata": "Q7089147"
+  }
+},
+{
+  "type": "way",
+  "id": 75956853,
+  "center": {
+    "lat": 37.5173461,
+    "lon": 127.1263998
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "leisure": "stadium",
+    "name": "SK올림픽핸드볼경기장",
+    "name:en": "SK Olympic Handball Stadium",
+    "name:ja": "SKオリンピックハンドボール競技場",
+    "sport": "handball"
+  }
+},
+{
+  "type": "way",
+  "id": 75956855,
+  "center": {
+    "lat": 37.5192311,
+    "lon": 127.1274694
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "alt_name:en": "K-Spo Dome",
+    "building": "yes",
+    "leisure": "stadium",
+    "name": "올림픽체조경기장",
+    "name:en": "KSPO Dome",
+    "name:ja": "オリンピック体操競技場",
+    "name:zh": "奥林匹克体操场",
+    "sport": "gymnastics",
+    "website": "https://www.ksponco.or.kr/olympicpark/menu.es?mid=a20301030800",
+    "wikidata": "Q487224"
+  }
+},
+{
+  "type": "way",
+  "id": 75956856,
+  "center": {
+    "lat": 37.5209133,
+    "lon": 127.1266402
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "check_date": "2022-09-24",
+    "leisure": "stadium",
+    "name": "올림픽수영경기장",
+    "name:en": "Olympic Swimming Pool",
+    "name:ja": "オリンピック水泳競技場",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "way",
+  "id": 75956859,
+  "center": {
+    "lat": 37.5169068,
+    "lon": 127.1233339
+  },
+  "tags": {
+    "leisure": "stadium",
+    "name": "벨로드롬",
+    "name:en": "Olympic Velodrome",
+    "name:ja": "ベロドローム",
+    "sport": "cycling",
+    "wikidata": "Q7089144"
+  }
+},
+{
+  "type": "way",
+  "id": 76425868,
+  "center": {
+    "lat": 37.5203666,
+    "lon": 127.1245091
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "name": "움집터"
+  }
+},
+{
+  "type": "way",
+  "id": 76425884,
+  "center": {
+    "lat": 37.5165966,
+    "lon": 127.1295763
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "China factory"
+  }
+},
+{
+  "type": "way",
+  "id": 76425888,
+  "center": {
+    "lat": 37.5164067,
+    "lon": 127.1300473
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "coffee_shop",
+    "name": "파리크라상"
+  }
+},
+{
+  "type": "way",
+  "id": 169802448,
+  "center": {
+    "lat": 37.5133797,
+    "lon": 127.1209692
+  },
+  "tags": {
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "방이 초등학교",
+    "name:zh": "万宜小学"
+  }
+},
+{
+  "type": "way",
+  "id": 415026027,
+  "center": {
+    "lat": 37.5154510,
+    "lon": 127.1207250
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "71",
+    "addr:postcode": "05540",
+    "addr:street": "위례성대로",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "fee": "no",
+    "name": "한성백제박물관",
+    "name:en": "Seoul Baekje Museum",
+    "name:ja": "ハンソンベクチェ博物館",
+    "name:ko": "한성백제박물관",
+    "name:zh": "汉城百济博物馆",
+    "operator": "서울특별시",
+    "phone": "+82 02-2152-5800",
+    "tourism": "museum",
+    "website": "http://baekjemuseum.seoul.go.kr",
+    "wikidata": "Q12624103",
+    "wikipedia": "en:Seoul Baekje Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 469354407,
+  "center": {
+    "lat": 37.5182346,
+    "lon": 127.1268985
+  },
+  "tags": {
+    "historic": "monument",
+    "name": "88서울올림픽"
+  }
+},
+{
+  "type": "way",
+  "id": 470689432,
+  "center": {
+    "lat": 37.5190595,
+    "lon": 127.1299284
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "체육과학관",
+    "name:ja": "体育科学館",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 470689433,
+  "center": {
+    "lat": 37.5200781,
+    "lon": 127.1309725
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "university",
+    "name": "한국체육대학교 본관",
+    "name:ja": "韓国体育大学校 本館"
+  }
+},
+{
+  "type": "way",
+  "id": 470689435,
+  "center": {
+    "lat": 37.5198638,
+    "lon": 127.1320425
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "university",
+    "name": "학생회관",
+    "name:ja": "学生会館",
+    "name:zh": "学生会堂"
+  }
+},
+{
+  "type": "way",
+  "id": 470689436,
+  "center": {
+    "lat": 37.5198988,
+    "lon": 127.1297313
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "university",
+    "name": "오륜관",
+    "name:ja": "五輪館",
+    "name:zh": "乌云湾"
+  }
+},
+{
+  "type": "way",
+  "id": 470689437,
+  "center": {
+    "lat": 37.5204127,
+    "lon": 127.1296038
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "university",
+    "name": "승리관",
+    "name:ja": "勝利館",
+    "name:zh": "胜利厅"
+  }
+},
+{
+  "type": "way",
+  "id": 470689439,
+  "center": {
+    "lat": 37.5205433,
+    "lon": 127.1305827
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "하키장",
+    "name:ja": "ホッケー場",
+    "sport": "hockey"
+  }
+},
+{
+  "type": "way",
+  "id": 470689440,
+  "center": {
+    "lat": 37.5206468,
+    "lon": 127.1313777
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "university",
+    "name": "필승관",
+    "name:ja": "必勝館"
+  }
+},
+{
+  "type": "way",
+  "id": 470689445,
+  "center": {
+    "lat": 37.5187164,
+    "lon": 127.1311836
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "축구장",
+    "name:ja": "サッカー場",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 470695079,
+  "center": {
+    "lat": 37.5198719,
+    "lon": 127.1327403
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass",
+    "leisure": "pitch",
+    "name": "골프장",
+    "name:ja": "ゴルフ場",
+    "sport": "golf"
+  }
+},
+{
+  "type": "way",
+  "id": 474102189,
+  "center": {
+    "lat": 37.5190360,
+    "lon": 127.1248167
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "roof",
+    "layer": "1",
+    "name": "야외무대",
+    "name:ja": "野外舞台"
+  }
+},
+{
+  "type": "way",
+  "id": 529592583,
+  "center": {
+    "lat": 37.5197182,
+    "lon": 127.1347098
+  },
+  "tags": {
+    "amenity": "school",
+    "isced:level": "3",
+    "name": "보성고등학교",
+    "name:en": "Posung High School",
+    "name:ko": "보성고등학교",
+    "name:ko-Latn": "Boseonggodeunghakgyo",
+    "name:zh": "宝城高中"
+  }
+},
+{
+  "type": "way",
+  "id": 538045768,
+  "center": {
+    "lat": 37.5207281,
+    "lon": 127.1322191
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "school",
+    "building_1": "dormitory",
+    "name": "기숙사",
+    "name:ja": "寄宿舎"
+  }
+},
+{
+  "type": "way",
+  "id": 568587266,
+  "center": {
+    "lat": 37.5204221,
+    "lon": 127.1350152
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "name": "보성중학교",
+    "name:ko": "보성중학교"
+  }
+},
+{
+  "type": "way",
+  "id": 609827759,
+  "center": {
+    "lat": 37.5211641,
+    "lon": 127.1254455
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "amenity": "stage",
+    "building": "yes",
+    "check_date": "2022-09-24",
+    "name": "88호수 수변무대",
+    "name:en": "88 Lakeside Stage",
+    "name:ko": "88호수 수변무대"
+  }
+},
+{
+  "type": "way",
+  "id": 627290398,
+  "center": {
+    "lat": 37.5184612,
+    "lon": 127.1299827
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "dormitory",
+    "name": "생활관",
+    "name:ja": "生活館"
+  }
+},
+{
+  "type": "way",
+  "id": 663601150,
+  "center": {
+    "lat": 37.5153557,
+    "lon": 127.1332876
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1220",
+    "addr:postcode": "05648",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "retail",
+    "name": "올림픽선수기자촌아파트수영장"
+  }
+},
+{
+  "type": "way",
+  "id": 663601151,
+  "center": {
+    "lat": 37.5159784,
+    "lon": 127.1355514
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "324",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 663601154,
+  "center": {
+    "lat": 37.5163167,
+    "lon": 127.1348654
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "316",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 663601155,
+  "center": {
+    "lat": 37.5163713,
+    "lon": 127.1355310
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "317",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 663601156,
+  "center": {
+    "lat": 37.5164316,
+    "lon": 127.1366580
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "84",
+    "building:levels": "16",
+    "name": "318",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518039,
+  "center": {
+    "lat": 37.5177758,
+    "lon": 127.1326780
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "84",
+    "building:levels": "14",
+    "name": "302",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518040,
+  "center": {
+    "lat": 37.5180807,
+    "lon": 127.1332436
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "303",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518041,
+  "center": {
+    "lat": 37.5175463,
+    "lon": 127.1331696
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "72",
+    "building:levels": "12",
+    "name": "304",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518042,
+  "center": {
+    "lat": 37.5172862,
+    "lon": 127.1327179
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "301",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518043,
+  "center": {
+    "lat": 37.5173532,
+    "lon": 127.1336159
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "48",
+    "building:levels": "10",
+    "name": "305",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518044,
+  "center": {
+    "lat": 37.5171508,
+    "lon": 127.1340231
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "48",
+    "building:levels": "10",
+    "name": "306",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518045,
+  "center": {
+    "lat": 37.5168906,
+    "lon": 127.1343494
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "28",
+    "building:levels": "8",
+    "name": "307",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518046,
+  "center": {
+    "lat": 37.5166242,
+    "lon": 127.1346071
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "28",
+    "building:levels": "8",
+    "name": "308",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518047,
+  "center": {
+    "lat": 37.5167845,
+    "lon": 127.1354282
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "309",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518048,
+  "center": {
+    "lat": 37.5170061,
+    "lon": 127.1365001
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "84",
+    "building:levels": "16",
+    "name": "310",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518057,
+  "center": {
+    "lat": 37.5155875,
+    "lon": 127.1347592
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "258",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518058,
+  "center": {
+    "lat": 37.5154688,
+    "lon": 127.1353849
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "257",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518059,
+  "center": {
+    "lat": 37.5152552,
+    "lon": 127.1364128
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "84",
+    "building:levels": "16",
+    "name": "256",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518064,
+  "center": {
+    "lat": 37.5147116,
+    "lon": 127.1361697
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "83",
+    "building:levels": "16",
+    "name": "251",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518065,
+  "center": {
+    "lat": 37.5150808,
+    "lon": 127.1352337
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "250",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518066,
+  "center": {
+    "lat": 37.5153093,
+    "lon": 127.1346487
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "249",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518067,
+  "center": {
+    "lat": 37.5150432,
+    "lon": 127.1345007
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "248",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518068,
+  "center": {
+    "lat": 37.5147269,
+    "lon": 127.1350098
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "247",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518069,
+  "center": {
+    "lat": 37.5143026,
+    "lon": 127.1356804
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "246",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518072,
+  "center": {
+    "lat": 37.5135698,
+    "lon": 127.1359336
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "24",
+    "building:levels": "12",
+    "name": "243",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518073,
+  "center": {
+    "lat": 37.5135919,
+    "lon": 127.1356706
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "40",
+    "building:levels": "20",
+    "name": "242",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518074,
+  "center": {
+    "lat": 37.5139393,
+    "lon": 127.1352350
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "241",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518075,
+  "center": {
+    "lat": 37.5143265,
+    "lon": 127.1348158
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "20",
+    "building:levels": "10",
+    "name": "240",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518076,
+  "center": {
+    "lat": 37.5148136,
+    "lon": 127.1337505
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "239",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518077,
+  "center": {
+    "lat": 37.5143466,
+    "lon": 127.1339636
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "238",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518078,
+  "center": {
+    "lat": 37.5137123,
+    "lon": 127.1343171
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "237",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518083,
+  "center": {
+    "lat": 37.5135405,
+    "lon": 127.1337492
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "232",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518084,
+  "center": {
+    "lat": 37.5142164,
+    "lon": 127.1335514
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "231",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518085,
+  "center": {
+    "lat": 37.5147065,
+    "lon": 127.1333915
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "230",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518086,
+  "center": {
+    "lat": 37.5146677,
+    "lon": 127.1330050
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "229",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518087,
+  "center": {
+    "lat": 37.5141718,
+    "lon": 127.1330623
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "228",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518088,
+  "center": {
+    "lat": 37.5134848,
+    "lon": 127.1331153
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "227",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518093,
+  "center": {
+    "lat": 37.5135271,
+    "lon": 127.1324899
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "52",
+    "building:levels": "14",
+    "name": "222",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518094,
+  "center": {
+    "lat": 37.5141924,
+    "lon": 127.1325943
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "height": "10",
+    "name": "221",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518095,
+  "center": {
+    "lat": 37.5146912,
+    "lon": 127.1326447
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "220",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518096,
+  "center": {
+    "lat": 37.5147526,
+    "lon": 127.1322979
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "219",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518097,
+  "center": {
+    "lat": 37.5142808,
+    "lon": 127.1321234
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "218",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518098,
+  "center": {
+    "lat": 37.5137476,
+    "lon": 127.1319386
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "25",
+    "building:levels": "12",
+    "name": "217",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518099,
+  "center": {
+    "lat": 37.5134416,
+    "lon": 127.1318573
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "32",
+    "building:levels": "16",
+    "name": "216",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518102,
+  "center": {
+    "lat": 37.5136652,
+    "lon": 127.1312200
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "32",
+    "building:levels": "16",
+    "name": "213",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518103,
+  "center": {
+    "lat": 37.5139655,
+    "lon": 127.1314035
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "24",
+    "building:levels": "12",
+    "name": "212",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518104,
+  "center": {
+    "lat": 37.5144171,
+    "lon": 127.1316892
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "36",
+    "building:levels": "10",
+    "name": "211",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518105,
+  "center": {
+    "lat": 37.5148626,
+    "lon": 127.1319731
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "12",
+    "building:levels": "6",
+    "name": "210",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518106,
+  "center": {
+    "lat": 37.5153416,
+    "lon": 127.1312887
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "201",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518107,
+  "center": {
+    "lat": 37.5149399,
+    "lon": 127.1314167
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "48",
+    "building:levels": "12",
+    "name": "203",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518108,
+  "center": {
+    "lat": 37.5151269,
+    "lon": 127.1308723
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "56",
+    "building:levels": "14",
+    "name": "202",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518109,
+  "center": {
+    "lat": 37.5147646,
+    "lon": 127.1310056
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "204",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518110,
+  "center": {
+    "lat": 37.5145795,
+    "lon": 127.1305005
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "56",
+    "building:levels": "14",
+    "name": "205",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518111,
+  "center": {
+    "lat": 37.5143475,
+    "lon": 127.1310207
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "48",
+    "building:levels": "12",
+    "name": "206",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518112,
+  "center": {
+    "lat": 37.5141727,
+    "lon": 127.1306220
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "207",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518113,
+  "center": {
+    "lat": 37.5139995,
+    "lon": 127.1301294
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "56",
+    "building:levels": "14",
+    "name": "208",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518114,
+  "center": {
+    "lat": 37.5136612,
+    "lon": 127.1305699
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "24",
+    "building:levels": "12",
+    "name": "209",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 673518115,
+  "center": {
+    "lat": 37.5134489,
+    "lon": 127.1301312
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1218",
+    "addr:postcode": "05649",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "96",
+    "building:levels": "24",
+    "name": "104",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 683545632,
+  "center": {
+    "lat": 37.5158934,
+    "lon": 127.1293836
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "올림픽공원 실내테니스장",
+    "name:en": "Olympic Park Indoor Tennis Court",
+    "name:ko": "올림픽공원 실내테니스장",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 801847558,
+  "center": {
+    "lat": 37.5223368,
+    "lon": 127.1298431
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "school",
+    "name": "체조관"
+  }
+},
+{
+  "type": "way",
+  "id": 801847560,
+  "center": {
+    "lat": 37.5218114,
+    "lon": 127.1299382
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "school",
+    "name": "서울체육중학교"
+  }
+},
+{
+  "type": "way",
+  "id": 801847561,
+  "center": {
+    "lat": 37.5217425,
+    "lon": 127.1305962
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "school",
+    "name": "서울체육고등학교"
+  }
+},
+{
+  "type": "way",
+  "id": 801847562,
+  "center": {
+    "lat": 37.5217964,
+    "lon": 127.1314191
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:subdistrict": "방이동",
+    "building": "school",
+    "name": "식당"
+  }
+},
+{
+  "type": "way",
+  "id": 802073410,
+  "center": {
+    "lat": 37.5231732,
+    "lon": 127.1312076
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "강동구",
+    "addr:subdistrict": "성내동",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2025-03-16",
+    "cuisine": "japanese",
+    "name": "긴자",
+    "name:en": "Gina",
+    "name:ko": "긴자"
+  }
+},
+{
+  "type": "way",
+  "id": 829068805,
+  "center": {
+    "lat": 37.5157897,
+    "lon": 127.1321162
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "1222",
+    "addr:postcode": "05648",
+    "addr:street": "양재대로",
+    "addr:subdistrict": "방이동",
+    "building": "retail",
+    "name": "올림픽프라자",
+    "name:en": "Olympic Plaza",
+    "name:ja": "オリンピックプラザ",
+    "name:ko": "올림픽프라자",
+    "name:zh": "奥林匹克广场"
+  }
+},
+{
+  "type": "way",
+  "id": 1078755056,
+  "center": {
+    "lat": 37.5142677,
+    "lon": 127.1204201
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "76",
+    "addr:postcode": "05628",
+    "addr:street": "위례성대로",
+    "addr:subdistrict": "방이동",
+    "building": "apartments",
+    "building:flats": "19",
+    "building:levels": "15",
+    "height": "52",
+    "name": "올림픽공원한승오디브아파트",
+    "name:ko": "올림픽공원한승오디브아파트",
+    "source": "도로명주소",
+    "start_date": "2006"
+  }
+},
+{
+  "type": "way",
+  "id": 1284401335,
+  "center": {
+    "lat": 37.5156312,
+    "lon": 127.1297389
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "올림픽공원 테니스장",
+    "sport": "tennis",
+    "surface": "artificial_turf"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720115,
+  "center": {
+    "lat": 37.5213496,
+    "lon": 127.1360285
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "308동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720116,
+  "center": {
+    "lat": 37.5221353,
+    "lon": 127.1361020
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "307동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720117,
+  "center": {
+    "lat": 37.5219344,
+    "lon": 127.1354736
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "303동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720118,
+  "center": {
+    "lat": 37.5216801,
+    "lon": 127.1350179
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "301동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720119,
+  "center": {
+    "lat": 37.5223705,
+    "lon": 127.1349331
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "302동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720120,
+  "center": {
+    "lat": 37.5226139,
+    "lon": 127.1354769
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "304동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720121,
+  "center": {
+    "lat": 37.5232083,
+    "lon": 127.1352711
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "305동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "way",
+  "id": 1362720122,
+  "center": {
+    "lat": 37.5228920,
+    "lon": 127.1360952
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "306동",
+    "source": "올림픽파크포레온"
+  }
+},
+{
+  "type": "relation",
+  "id": 8679966,
+  "center": {
+    "lat": 37.5154279,
+    "lon": 127.1284024
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "송파구",
+    "addr:housenumber": "424",
+    "addr:postcode": "05540",
+    "addr:street": "올림픽로",
+    "addr:subdistrict": "방이동",
+    "building": "yes",
+    "leisure": "stadium",
+    "name": "올림픽공원 테니스경기장",
+    "name:en": "Olympic Park Tennis Court",
+    "name:ja": "オリンピック公園 テニス競技場",
+    "name:ko": "올림픽공원 테니스경기장",
+    "phone": "+82 02-2180-3778",
+    "sport": "tennis",
+    "type": "multipolygon",
+    "website": "sports.ksponco.or.kr/menu.es?mid=a20103000000"
+  }
+},
+{
+  "type": "relation",
+  "id": 8972497,
+  "center": {
+    "lat": 37.5187193,
+    "lon": 127.1311615
+  },
+  "tags": {
+    "leisure": "track",
+    "name": "한체대 트랙",
+    "sport": "running",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

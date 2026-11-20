@@ -1,0 +1,4 @@
+[out:json][timeout:60];
+( way["railway"~"subway|platform"](37.5125,127.1250,37.5200,127.1380);
+  way["public_transport"="platform"](37.5125,127.1250,37.5200,127.1380); );
+out body geom;

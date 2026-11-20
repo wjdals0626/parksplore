@@ -1,0 +1,10 @@
+[out:json][timeout:90];
+(
+  nwr["name"]["building"](37.5135,127.1205,37.5235,127.1360);
+  nwr["name"]["leisure"~"stadium|sports_centre|pitch|track"](37.5135,127.1205,37.5235,127.1360);
+  nwr["name"]["tourism"](37.5135,127.1205,37.5235,127.1360);
+  nwr["name"]["historic"](37.5135,127.1205,37.5235,127.1360);
+  nwr["name"]["amenity"~"theatre|arts_centre|townhall|bank|police|hospital|school|community_centre"](37.5135,127.1205,37.5235,127.1360);
+  nwr["name"]["man_made"](37.5135,127.1205,37.5235,127.1360);
+);
+out center tags;

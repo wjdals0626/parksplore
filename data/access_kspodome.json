@@ -1,0 +1,132 @@
+{
+ "venue": "KSPO DOME(체조경기장)",
+ "center_approx": {
+  "lat": 37.519243,
+  "lon": 127.12752,
+  "note": "OpenStreetMap 건물 외곽선 중심"
+ },
+ "seats": {
+  "total_after_renovation": 14352,
+  "floor2": 6530,
+  "floor3": 7735,
+  "wheelchair": {
+   "3f_plan_note": 87,
+   "seat_map_table": 82,
+   "seat_map_label": 84,
+   "issue": "공식 도면 간 장애인석 수 불일치(82/84/87) - 기관 확인 필요"
+  },
+  "sections": 52,
+  "box_seats": 121
+ },
+ "gates": [
+  "1-1문(대관/분장)",
+  "1-2문(피난출입구 신설)",
+  "1-3문(장비차량)",
+  "2-1문",
+  "2-2문",
+  "2-3문"
+ ],
+ "entrances_windbreak": 9,
+ "facilities_2f": {
+  "toilet_male": 3,
+  "toilet_female": 11,
+  "toilet_accessible": 2,
+  "toilet_vip": 1,
+  "tactile_map": "2-1문 인근(방풍실 #2~#3)",
+  "elevator": "도면 미표기 - 기관 확인 필요"
+ },
+ "model_3d": {
+  "ramps_slope_material": 4,
+  "note": "3D 모델 재질 'slope' 4개소(상부 링 한쪽 집중)"
+ },
+ "transit_access_points": [
+  {
+   "type": "elevator",
+   "station": "올림픽공원(한국체대)",
+   "node_id": 212600,
+   "lat": 37.516538146120155,
+   "lon": 127.13086140464432,
+   "dist_to_dome_m": 421
+  },
+  {
+   "type": "elevator",
+   "station": "올림픽공원(한국체대)",
+   "node_id": 198630,
+   "lat": 37.516040328917775,
+   "lon": 127.13120675007835,
+   "dist_to_dome_m": 482
+  },
+  {
+   "type": "wheelchair_lift",
+   "station": "올림픽공원(한국체대)",
+   "node_id": 198630,
+   "lat": 37.516040328917775,
+   "lon": 127.13120675007835,
+   "dist_to_dome_m": 482
+  },
+  {
+   "type": "elevator",
+   "station": "올림픽공원(한국체대)",
+   "node_id": 212604,
+   "lat": 37.515968021653165,
+   "lon": 127.13111036762389,
+   "dist_to_dome_m": 483
+  },
+  {
+   "type": "elevator",
+   "station": "한성백제",
+   "node_id": 215342,
+   "lat": 37.51686754955193,
+   "lon": 127.11580391281615,
+   "dist_to_dome_m": 1067
+  },
+  {
+   "type": "elevator",
+   "station": "한성백제",
+   "node_id": 215343,
+   "lat": 37.51608521047556,
+   "lon": 127.115452186766,
+   "dist_to_dome_m": 1121
+  },
+  {
+   "type": "elevator",
+   "station": "방이",
+   "node_id": 24563,
+   "lat": 37.508875502115316,
+   "lon": 127.12645170899927,
+   "dist_to_dome_m": 1157
+  },
+  {
+   "type": "elevator",
+   "station": "방이",
+   "node_id": 211587,
+   "lat": 37.50859898482835,
+   "lon": 127.12576411743366,
+   "dist_to_dome_m": 1194
+  },
+  {
+   "type": "wheelchair_lift",
+   "station": "몽촌토성(평화의문)",
+   "node_id": 110611,
+   "lat": 37.517709119670556,
+   "lon": 127.11326448370943,
+   "dist_to_dome_m": 1269
+  },
+  {
+   "type": "wheelchair_lift",
+   "station": "몽촌토성(평화의문)",
+   "node_id": 110204,
+   "lat": 37.51793850317135,
+   "lon": 127.11271174664988,
+   "dist_to_dome_m": 1314
+  },
+  {
+   "type": "elevator",
+   "station": "몽촌토성(평화의문)",
+   "node_id": 196280,
+   "lat": 37.5176243275448,
+   "lon": 127.11218692416507,
+   "dist_to_dome_m": 1364
+  }
+ ]
+}

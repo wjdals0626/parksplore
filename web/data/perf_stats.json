@@ -1,0 +1,62 @@
+{
+ "source": "한국문화정보원 KSCperf(한국체육산업개발 올림픽공원 공연정보)",
+ "records": 2502,
+ "venues": {
+  "올림픽홀": {
+   "events": 491,
+   "with_duration": 393,
+   "median_min": 120,
+   "p25_min": 120.0,
+   "p75_min": 150.0
+  },
+  "KSPO DOME": {
+   "events": 337,
+   "with_duration": 230,
+   "median_min": 120.0,
+   "p25_min": 120.0,
+   "p75_min": 150.0
+  },
+  "뮤즈라이브": {
+   "events": 195,
+   "with_duration": 178,
+   "median_min": 120.0,
+   "p25_min": 90.0,
+   "p75_min": 120.0
+  },
+  "핸드볼경기장": {
+   "events": 197,
+   "with_duration": 139,
+   "median_min": 120,
+   "p25_min": 120.0,
+   "p75_min": 150.0
+  },
+  "우리금융아트홀": {
+   "events": 153,
+   "with_duration": 137,
+   "median_min": 120,
+   "p25_min": 70.0,
+   "p75_min": 120.0
+  },
+  "기타": {
+   "events": 118,
+   "with_duration": 78,
+   "median_min": 120.0,
+   "p25_min": 90.0,
+   "p75_min": 120.0
+  },
+  "88잔디마당": {
+   "events": 67,
+   "with_duration": 46,
+   "median_min": 445.0,
+   "p25_min": 120.0,
+   "p75_min": 525.0
+  },
+  "수변무대": {
+   "events": 26,
+   "with_duration": 20,
+   "median_min": 120.0,
+   "p25_min": 100.0,
+   "p75_min": 150.0
+  }
+ }
+}

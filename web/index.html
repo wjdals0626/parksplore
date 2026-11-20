@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="ko" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>팍스플로어</title>
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<script>try{var m=location.hash.match(/theme=(light|dark)/);var t=m?m[1]:localStorage.getItem("theme");if(t==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
+<meta name="description" content="올림픽공원 KSPO DOME 실감형 3D 공공데이터로 교통약자·발달장애인·외국인 관객이 공연 전에 미리 둘러보는 사전답사 서비스">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<link rel="stylesheet" href="style.css?v=202611200856">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <img class="logo" src="assets/logo.png" alt="" width="44" height="44">
+    <div>
+      <h1 data-i18n="title">팍스플로어</h1>
+      <p data-i18n="subtitle">KSPO DOME 실감형 3D로 미리 가 보는 공연장</p>
+    </div>
+  </div>
+  <div class="toggles">
+    <button id="easyBtn" class="chip outline" aria-pressed="false" data-i18n="easy">쉬운 안내</button>
+    <button id="langBtn" class="chip outline">EN</button>
+    <button id="themeBtn" class="chip icon outline" aria-label="다크 모드로 전환" title="다크 모드">☾</button>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="viewer" aria-label="3D 공연장">
+    <canvas id="c"></canvas>
+    <div id="map" class="map" hidden></div>
+    <div class="modes" role="group" aria-label="보기 전환">
+      <button id="modeMap" class="chip" data-i18n="m_map">공원 지도</button>
+      <button id="modeIn" class="chip" aria-pressed="true" data-i18n="m_in">공연장 내부</button>
+    </div>
+    <div id="legendMap" class="legend2" hidden>
+      <button id="lgHead" class="lg-head" aria-expanded="true" aria-controls="lgBody"><span data-i18n="lg_title">지도 보는 법</span><span class="chev" aria-hidden="true">▾</span></button>
+      <ul id="lgBody" class="lg-body">
+        <li data-flash="route" role="button" tabindex="0"><svg class="lg-ico" viewBox="0 0 40 14" aria-hidden="true"><line x1="4" y1="7" x2="36" y2="7" stroke="#fff" stroke-width="11" stroke-linecap="round"/><line x1="4" y1="7" x2="36" y2="7" stroke="#ff7a1a" stroke-width="6" stroke-linecap="round"/></svg><span><b data-i18n="g_route">계단 없는 추천 경로</b><small data-i18n="g_route_d">이 주황색 길을 따라가세요</small></span></li>
+        <li data-flash="steps" role="button" tabindex="0"><svg class="lg-ico" viewBox="0 0 40 14" aria-hidden="true"><line x1="3" y1="7" x2="37" y2="7" stroke="#e11d48" stroke-width="4" stroke-dasharray="4 3"/><text x="20" y="11.5" text-anchor="middle" font-size="12" font-weight="800" fill="#e11d48" stroke="#fff" stroke-width="3" paint-order="stroke">✕</text></svg><span><b data-i18n="g_steps">계단 (피하세요)</b><small data-i18n="g_steps_d">휠체어·유모차는 이용 불가</small></span></li>
+        <li data-flash="alt" role="button" tabindex="0"><svg class="lg-ico" viewBox="0 0 40 14" aria-hidden="true"><line x1="3" y1="7" x2="37" y2="7" stroke="#64748b" stroke-width="3" stroke-dasharray="6 4"/></svg><span><b data-i18n="g_alt">다른 역에서 오는 길</b></span></li>
+        <li data-flash="fac" role="button" tabindex="0"><span class="lg-ico lg-bub"></span><span><b data-i18n="g_fac">엘리베이터 · 휠체어 리프트</b><small data-i18n="g_fac_d">말풍선이 있는 곳에서 타요</small></span></li>
+        <li data-flash="dome" role="button" tabindex="0"><span class="lg-ico lg-bub dome"></span><span><b data-i18n="g_dome">KSPO DOME 공연장</b></span></li>
+        <li data-flash="bld" role="button" tabindex="0"><span class="lg-ico lg-txt">건물</span><span><b data-i18n="g_bld">주변 건물 이름</b></span></li>
+        <li data-flash="sub" role="button" tabindex="0"><span class="lg-ico lg-sub"><i style="--c:#8c5cff"></i><i style="--c:#c9a227"></i></span><span><b data-i18n="g_sub">지하 승강장</b><small data-i18n="g_sub_d">5호선(보라) · 9호선(금색)</small></span></li>
+        <li data-flash="park" role="button" tabindex="0"><span class="lg-ico lg-park"></span><span><b data-i18n="g_park">주차장</b></span></li>
+        <li class="lg-tip" data-i18n="lg_tap">항목을 누르면 지도에서 깜빡여요</li>
+      </ul>
+    </div>
+    <div id="loading" class="loading"><div class="bar"><i id="prog"></i></div><span data-i18n="loading">3D 공연장을 불러오는 중…</span></div>
+    <div id="layersIn" class="layers" role="group" aria-label="표시 레이어">
+      <label><input type="checkbox" data-layer="slope" checked><b class="sw" style="--c:#8c5cff"></b><span data-i18n="l_slope">경사로</span></label>
+      <label><input type="checkbox" data-layer="door" checked><b class="sw" style="--c:#0ea5e9"></b><span data-i18n="l_door">통로 문</span></label>
+      <label><input type="checkbox" data-layer="turnel"><b class="sw" style="--c:#64748b"></b><span data-i18n="l_tunnel">출입통로</span></label>
+      <label><input type="checkbox" data-layer="fire_box" checked><b class="sw" style="--c:#f87171"></b><span data-i18n="l_fire">소화·비상설비</span></label>
+      <label><input type="checkbox" data-nums checked><b class="sw" style="--c:#1f2430"></b><span data-i18n="l_num">출입구 번호</span></label>
+      <label><input type="checkbox" data-roof><b class="sw" style="--c:#a1a1aa"></b><span data-i18n="l_roof">지붕 보기</span></label>
+    </div>
+    <div class="navhint" aria-hidden="true"><span class="ico">⟲</span><span data-i18n="hint">좌우로 끌면 360° 둘러보기, 위아래로 끌면 앞뒤로 이동</span></div>
+    <button id="homeBtn" class="homebtn" aria-label="올림픽공원역으로 돌아가기" title="올림픽공원역으로 돌아가기">
+      <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path d="M9 14 4 9l5-5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="stepnav">
+      <button id="prevBtn" class="nav" aria-label="이전">‹</button>
+      <div id="stepCap" class="cap"></div>
+      <button id="nextBtn" class="nav" aria-label="다음">›</button>
+    </div>
+  </section>
+
+  <aside class="panel">
+    <nav class="tabs" role="tablist">
+      <button role="tab" class="tab on" data-tab="show" data-i18n="t_show">공연 선택</button>
+      <button role="tab" class="tab" data-tab="tour" data-i18n="t_tour">사전 답사</button>
+      <button role="tab" class="tab" data-tab="today" data-i18n="t_today">오늘의 이동</button>
+      <button role="tab" class="tab" data-tab="info" data-i18n="t_info">접근성 정보</button>
+    </nav>
+
+    <div class="pane on" id="pane-show">
+      <p class="muted" data-i18n="show_hint">관람할 KSPO DOME 공연을 고르면 날씨·이동 정보가 공연 일정에 맞춰집니다.</p>
+      <div id="showSel" class="card pickcard" hidden aria-live="polite"></div>
+      <ul id="events" class="events"></ul>
+    </div>
+
+    <div class="pane" id="pane-tour">
+      <ol id="steps" class="steps"></ol>
+    </div>
+
+    <div class="pane" id="pane-today">
+      <div class="card"><h3 data-i18n="wx">공연 시간 날씨</h3><div id="wx"></div></div>
+      <div class="card"><h3 data-i18n="pk">올림픽공원 주차 현황</h3><div id="pk"></div></div>
+      <div class="card"><h3 data-i18n="tr">가까운 지하철 엘리베이터·리프트</h3><ul id="tr" class="tr"></ul></div>
+      <p class="muted small" id="updated"></p>
+    </div>
+
+    <div class="pane" id="pane-info">
+      <div class="card"><h3 data-i18n="seats">좌석</h3><div id="seats"></div></div>
+      <div class="card warn"><h3 data-i18n="gap">공공데이터로 확인되지 않는 정보</h3><ul id="gaps"></ul></div>
+      <div class="card"><h3 data-i18n="src">사용한 공공데이터</h3><ul class="src small" id="srcs"></ul></div>
+    </div>
+  </aside>
+</main>
+<script type="module" src="app.js?v=202611200856"></script>
+</body>
+</html>

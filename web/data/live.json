@@ -1,0 +1,661 @@
+{
+ "updated": "2026-11-18T14:45+09:00",
+ "events": [
+  {
+   "id": "5136",
+   "place": "올림픽공원 우리금융아트홀",
+   "title": "최현우 30주년 기념 공연 - LEGACY",
+   "start": "2026-11-28",
+   "end": "2027-01-03",
+   "time": "수목금 19시 30분 / 토 15시, 19시 / 일 14시 (일자별 공연 시간 변동 있으며, 상세페이지 참고 부탁드립니다. )",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610011607581611.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5136"
+  },
+  {
+   "id": "5159",
+   "place": "KSPO DOME",
+   "title": "[서울] 2026 조용필 ＆ 위대한탄생 콘서트",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "time": "2026년 11월 27일(금) 오후 7시 2026년 11월 28일(토) 오후 6시 2026년 11월 29일(일) 오후 5시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202609181647014471.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5159"
+  },
+  {
+   "id": "5168",
+   "place": "올림픽홀",
+   "title": "2026 다이나믹 듀오 단독 콘서트 ＂가끔씩 오래 보자＂ - 서울",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "time": "2026년 11월 27일(금) 8PM / 2026년 11월 28일(토) 6PM / 2026년 11월 29일(일) 5PM",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610301649241591.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5168"
+  },
+  {
+   "id": "5158",
+   "place": "KSPO DOME",
+   "title": "2026-27 로이킴 LIVE TOUR ［R:O:Y］ in SEOUL",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "time": "2026.11.21.(SAT) 6PM 2026.11.22.(SUN) 5PM",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202609181746438231.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5158"
+  },
+  {
+   "id": "5167",
+   "place": "올림픽홀",
+   "title": "2026 CRAVITY CONCERT 〈SONOROUS〉 in Seoul",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "time": "2026년 11월 14일(토) ~ 11월 15(일) 토 오후 6시 / 일 오후 4시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610070908462081.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5167"
+  },
+  {
+   "id": "5165",
+   "place": "KSPO DOME",
+   "title": "TOMORROW X TOGETHER WORLD TOUR 〈STEAL THE WIND〉 IN SEOUL",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "time": "11월 13일 금 7PM(KST) 11월 14일 토 6PM(KST) 1월 15일 일 5PM(KST)",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610011444187881.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5165"
+  },
+  {
+   "id": "5169",
+   "place": "올림픽공원 우리금융아트홀",
+   "title": "코리아발레스타즈 호두까기인형",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "time": "11월 7일(토) 16시 / 11월 8일(일) 16시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610070917376911.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5169"
+  },
+  {
+   "id": "5166",
+   "place": "올림픽홀",
+   "title": "2026 박재정 콘서트 - 기록",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "time": "2026년 11월 7일(토) 18:00 / 2026년 11월 8일(금) 17:00",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610070905137281.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5166"
+  },
+  {
+   "id": "5157",
+   "place": "KSPO DOME",
+   "title": "EXO PLANET #6 - EXhOrizon [dot] -",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "time": "금 오후 7시 / 토 오후 6시 / 일 오후 5시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202609181601375761.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5157"
+  },
+  {
+   "id": "5164",
+   "place": "KSPO DOME",
+   "title": "2026 WOODZ WORLD TOUR Archive. 1 : Completed",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "time": "토 오후 6시 / 일 오후 5시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202610011441076461.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5164"
+  },
+  {
+   "id": "5156",
+   "place": "올림픽홀",
+   "title": "2026 ONEW CONCERT [ONEW THE LIVE : Q] IN SEOUL",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "time": "금 오후 7시 28분 / 토 오후 5시 / 일 오후 4시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202609181556258861.jpg",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5156"
+  },
+  {
+   "id": "5155",
+   "place": "올림픽공원 우리금융아트홀",
+   "title": "2026 심규선 단독 콘서트［SANCTUARY］",
+   "start": "2026-10-24",
+   "end": "2026-11-01",
+   "time": "2026년 10월 24일 토요일 오후 6시 2026년 10월 25일 일요일 오후 5시 2026년 10월 31일 토요일 오후 6시 2026년 11월 1일 일요일 오후 5시",
+   "image": "https://www.ksponco.or.kr/olympicpark/attachFiles/eventInfo/202609161608077351.gif",
+   "url": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?mid=a20301010100&evtSeq=5155"
+  }
+ ],
+ "parking": {
+  "parking_sum": 2044
+ },
+ "weather": {
+  "base": "202611181400",
+  "hourly": [
+   {
+    "time": "202611181500",
+    "temp": "9",
+    "pop": "30",
+    "sky": "4",
+    "pty": "0",
+    "wind": "2.6"
+   },
+   {
+    "time": "202611181600",
+    "temp": "9",
+    "pop": "30",
+    "sky": "4",
+    "pty": "0",
+    "wind": "2.2"
+   },
+   {
+    "time": "202611181700",
+    "temp": "8",
+    "pop": "30",
+    "sky": "4",
+    "pty": "0",
+    "wind": "2.5"
+   },
+   {
+    "time": "202611181800",
+    "temp": "7",
+    "pop": "30",
+    "sky": "4",
+    "pty": "0",
+    "wind": "4.4"
+   },
+   {
+    "time": "202611181900",
+    "temp": "6",
+    "pop": "60",
+    "sky": "4",
+    "pty": "1",
+    "wind": "4.1"
+   },
+   {
+    "time": "202611182000",
+    "temp": "5",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.9"
+   },
+   {
+    "time": "202611182100",
+    "temp": "4",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4"
+   },
+   {
+    "time": "202611182200",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.9"
+   },
+   {
+    "time": "202611182300",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.6"
+   },
+   {
+    "time": "202611190000",
+    "temp": "2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.9"
+   },
+   {
+    "time": "202611190100",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.6"
+   },
+   {
+    "time": "202611190200",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.1"
+   },
+   {
+    "time": "202611190300",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.8"
+   },
+   {
+    "time": "202611190400",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.6"
+   },
+   {
+    "time": "202611190500",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.6"
+   },
+   {
+    "time": "202611190600",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.5"
+   },
+   {
+    "time": "202611190700",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.7"
+   },
+   {
+    "time": "202611190800",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2"
+   },
+   {
+    "time": "202611190900",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.9"
+   },
+   {
+    "time": "202611191000",
+    "temp": "2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.2"
+   },
+   {
+    "time": "202611191100",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.2"
+   },
+   {
+    "time": "202611191200",
+    "temp": "4",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.4"
+   },
+   {
+    "time": "202611191300",
+    "temp": "5",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.7"
+   },
+   {
+    "time": "202611191400",
+    "temp": "5",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.2"
+   },
+   {
+    "time": "202611191500",
+    "temp": "5",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4"
+   },
+   {
+    "time": "202611191600",
+    "temp": "4",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.4"
+   },
+   {
+    "time": "202611191700",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.4"
+   },
+   {
+    "time": "202611191800",
+    "temp": "2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.1"
+   },
+   {
+    "time": "202611191900",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.1"
+   },
+   {
+    "time": "202611192000",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2"
+   },
+   {
+    "time": "202611192100",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2"
+   },
+   {
+    "time": "202611192200",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.7"
+   },
+   {
+    "time": "202611192300",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.4"
+   },
+   {
+    "time": "202611200000",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.2"
+   },
+   {
+    "time": "202611200100",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.1"
+   },
+   {
+    "time": "202611200200",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.1"
+   },
+   {
+    "time": "202611200300",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.9"
+   },
+   {
+    "time": "202611200400",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.3"
+   },
+   {
+    "time": "202611200500",
+    "temp": "-3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611200600",
+    "temp": "-3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.4"
+   },
+   {
+    "time": "202611200700",
+    "temp": "-3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.6"
+   },
+   {
+    "time": "202611200800",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611200900",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.9"
+   },
+   {
+    "time": "202611201000",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.5"
+   },
+   {
+    "time": "202611201100",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "4.2"
+   },
+   {
+    "time": "202611201200",
+    "temp": "2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.9"
+   },
+   {
+    "time": "202611201300",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "3.6"
+   },
+   {
+    "time": "202611201400",
+    "temp": "4",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "2.5"
+   },
+   {
+    "time": "202611201500",
+    "temp": "4",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1.3"
+   },
+   {
+    "time": "202611201600",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.9"
+   },
+   {
+    "time": "202611201700",
+    "temp": "2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.1"
+   },
+   {
+    "time": "202611201800",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.5"
+   },
+   {
+    "time": "202611201900",
+    "temp": "0",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.1"
+   },
+   {
+    "time": "202611202000",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.1"
+   },
+   {
+    "time": "202611202100",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.4"
+   },
+   {
+    "time": "202611202200",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.6"
+   },
+   {
+    "time": "202611202300",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.3"
+   },
+   {
+    "time": "202611210000",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "0.5"
+   },
+   {
+    "time": "202611210300",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611210600",
+    "temp": "-3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611210900",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611211200",
+    "temp": "1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611211500",
+    "temp": "3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611211800",
+    "temp": "-1",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611212100",
+    "temp": "-2",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   },
+   {
+    "time": "202611220000",
+    "temp": "-3",
+    "pop": "0",
+    "sky": "1",
+    "pty": "0",
+    "wind": "1"
+   }
+  ]
+ }
+}

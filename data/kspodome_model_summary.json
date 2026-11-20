@@ -1,0 +1,1306 @@
+{
+ "unit_m_per_src": 0.0254,
+ "bbox_min_m": [
+  -0.4300000071525574,
+  -0.7099999785423279,
+  -201.4600067138672
+ ],
+ "bbox_max_m": [
+  210.27000427246094,
+  29.200000762939453,
+  45.97999954223633
+ ],
+ "total_triangles": 2574840,
+ "materials": [
+  {
+   "material": "arm__1",
+   "triangles": 481936,
+   "vertices": 205856,
+   "bbox_min_m": [
+    72.69,
+    0.2,
+    -113.85
+   ],
+   "bbox_max_m": [
+    138.46,
+    5.46,
+    -28.84
+   ]
+  },
+  {
+   "material": "stand_frame_iron",
+   "triangles": 471935,
+   "vertices": 141980,
+   "bbox_min_m": [
+    46.83,
+    0.0,
+    -131.12
+   ],
+   "bbox_max_m": [
+    164.06,
+    13.11,
+    -14.19
+   ]
+  },
+  {
+   "material": "chair_1",
+   "triangles": 394662,
+   "vertices": 169523,
+   "bbox_min_m": [
+    62.49,
+    0.2,
+    -114.89
+   ],
+   "bbox_max_m": [
+    148.77,
+    5.67,
+    -54.54
+   ]
+  },
+  {
+   "material": "dome_line",
+   "triangles": 268304,
+   "vertices": 65667,
+   "bbox_min_m": [
+    42.82,
+    14.02,
+    -134.1
+   ],
+   "bbox_max_m": [
+    168.07,
+    28.68,
+    -8.69
+   ]
+  },
+  {
+   "material": "sign_text_white",
+   "triangles": 142404,
+   "vertices": 37162,
+   "bbox_min_m": [
+    47.51,
+    5.27,
+    -129.33
+   ],
+   "bbox_max_m": [
+    163.49,
+    12.5,
+    -15.24
+   ]
+  },
+  {
+   "material": "material_9",
+   "triangles": 151760,
+   "vertices": 89128,
+   "bbox_min_m": [
+    47.89,
+    5.28,
+    -129.11
+   ],
+   "bbox_max_m": [
+    163.78,
+    10.91,
+    -14.28
+   ]
+  },
+  {
+   "material": "material_7",
+   "triangles": 84280,
+   "vertices": 50568,
+   "bbox_min_m": [
+    72.77,
+    0.54,
+    -113.71
+   ],
+   "bbox_max_m": [
+    138.38,
+    5.47,
+    -28.98
+   ]
+  },
+  {
+   "material": "sign_black",
+   "triangles": 78073,
+   "vertices": 29330,
+   "bbox_min_m": [
+    47.5,
+    5.5,
+    -129.34
+   ],
+   "bbox_max_m": [
+    163.5,
+    12.57,
+    -15.23
+   ]
+  },
+  {
+   "material": "__stand_paint",
+   "triangles": 78554,
+   "vertices": 25390,
+   "bbox_min_m": [
+    48.01,
+    0.0,
+    -130.84
+   ],
+   "bbox_max_m": [
+    162.82,
+    12.51,
+    -28.79
+   ]
+  },
+  {
+   "material": "material_6",
+   "triangles": 67492,
+   "vertices": 50704,
+   "bbox_min_m": [
+    66.39,
+    0.23,
+    -113.71
+   ],
+   "bbox_max_m": [
+    144.76,
+    5.19,
+    -28.98
+   ]
+  },
+  {
+   "material": "aluminum1",
+   "triangles": 60848,
+   "vertices": 15660,
+   "bbox_min_m": [
+    52.22,
+    4.7,
+    -125.49
+   ],
+   "bbox_max_m": [
+    158.67,
+    8.2,
+    -21.3
+   ]
+  },
+  {
+   "material": "yellow_chair__1",
+   "triangles": 45120,
+   "vertices": 27072,
+   "bbox_min_m": [
+    62.72,
+    0.58,
+    -92.78
+   ],
+   "bbox_max_m": [
+    148.53,
+    5.49,
+    -54.63
+   ]
+  },
+  {
+   "material": "material_12",
+   "triangles": 21464,
+   "vertices": 9057,
+   "bbox_min_m": [
+    42.87,
+    4.76,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    10.51,
+    -8.91
+   ]
+  },
+  {
+   "material": "yellow_chair__3",
+   "triangles": 18720,
+   "vertices": 18720,
+   "bbox_min_m": [
+    62.72,
+    0.72,
+    -114.78
+   ],
+   "bbox_max_m": [
+    148.53,
+    5.47,
+    -54.63
+   ]
+  },
+  {
+   "material": "chair_orange",
+   "triangles": 18220,
+   "vertices": 25638,
+   "bbox_min_m": [
+    58.49,
+    5.51,
+    -129.1
+   ],
+   "bbox_max_m": [
+    152.4,
+    11.29,
+    -14.25
+   ]
+  },
+  {
+   "material": "white_paint",
+   "triangles": 17166,
+   "vertices": 8807,
+   "bbox_min_m": [
+    72.62,
+    4.74,
+    -114.94
+   ],
+   "bbox_max_m": [
+    138.47,
+    4.75,
+    -99.82
+   ]
+  },
+  {
+   "material": "material_18",
+   "triangles": 15656,
+   "vertices": 6644,
+   "bbox_min_m": [
+    47.1,
+    10.11,
+    -118.86
+   ],
+   "bbox_max_m": [
+    163.69,
+    11.35,
+    -77.42
+   ]
+  },
+  {
+   "material": "pole_gray_paint",
+   "triangles": 15356,
+   "vertices": 6600,
+   "bbox_min_m": [
+    52.89,
+    5.83,
+    -124.82
+   ],
+   "bbox_max_m": [
+    158.0,
+    9.27,
+    -21.94
+   ]
+  },
+  {
+   "material": "material_3",
+   "triangles": 14036,
+   "vertices": 19283,
+   "bbox_min_m": [
+    47.87,
+    5.5,
+    -102.62
+   ],
+   "bbox_max_m": [
+    163.02,
+    10.87,
+    -34.84
+   ]
+  },
+  {
+   "material": "turnel_basic_wihte",
+   "triangles": 12565,
+   "vertices": 6898,
+   "bbox_min_m": [
+    51.52,
+    3.76,
+    -126.19
+   ],
+   "bbox_max_m": [
+    159.36,
+    9.24,
+    -19.03
+   ]
+  },
+  {
+   "material": "material_4",
+   "triangles": 11200,
+   "vertices": 5600,
+   "bbox_min_m": [
+    72.71,
+    2.26,
+    -113.71
+   ],
+   "bbox_max_m": [
+    138.45,
+    4.94,
+    -28.98
+   ]
+  },
+  {
+   "material": "pole_gray_color",
+   "triangles": 10788,
+   "vertices": 4648,
+   "bbox_min_m": [
+    42.96,
+    10.51,
+    -133.97
+   ],
+   "bbox_max_m": [
+    167.93,
+    14.01,
+    -9.0
+   ]
+  },
+  {
+   "material": "AL",
+   "triangles": 10004,
+   "vertices": 2820,
+   "bbox_min_m": [
+    56.28,
+    -0.5,
+    -121.53
+   ],
+   "bbox_max_m": [
+    154.61,
+    11.74,
+    -23.78
+   ]
+  },
+  {
+   "material": "door_metal_black",
+   "triangles": 8208,
+   "vertices": 3414,
+   "bbox_min_m": [
+    51.48,
+    -0.6,
+    -126.23
+   ],
+   "bbox_max_m": [
+    159.4,
+    8.46,
+    -20.62
+   ]
+  },
+  {
+   "material": "material_2",
+   "triangles": 5520,
+   "vertices": 7079,
+   "bbox_min_m": [
+    49.2,
+    -0.6,
+    -128.73
+   ],
+   "bbox_max_m": [
+    161.68,
+    11.73,
+    -14.87
+   ]
+  },
+  {
+   "material": "sign_yellow",
+   "triangles": 5431,
+   "vertices": 4635,
+   "bbox_min_m": [
+    47.48,
+    5.24,
+    -129.35
+   ],
+   "bbox_max_m": [
+    163.52,
+    12.58,
+    -15.22
+   ]
+  },
+  {
+   "material": "material_45",
+   "triangles": 5408,
+   "vertices": 1630,
+   "bbox_min_m": [
+    45.33,
+    10.51,
+    -132.32
+   ],
+   "bbox_max_m": [
+    165.56,
+    12.45,
+    -65.81
+   ]
+  },
+  {
+   "material": "material_46",
+   "triangles": 5224,
+   "vertices": 1318,
+   "bbox_min_m": [
+    49.51,
+    11.62,
+    -128.9
+   ],
+   "bbox_max_m": [
+    161.07,
+    12.62,
+    -53.01
+   ]
+  },
+  {
+   "material": "red_charir",
+   "triangles": 4598,
+   "vertices": 2299,
+   "bbox_min_m": [
+    47.32,
+    10.46,
+    -118.78
+   ],
+   "bbox_max_m": [
+    163.47,
+    11.38,
+    -77.48
+   ]
+  },
+  {
+   "material": "dome_black",
+   "triangles": 4564,
+   "vertices": 1282,
+   "bbox_min_m": [
+    103.26,
+    18.92,
+    -73.67
+   ],
+   "bbox_max_m": [
+    107.63,
+    25.3,
+    -69.29
+   ]
+  },
+  {
+   "material": "Orange_yellow",
+   "triangles": 3440,
+   "vertices": 1552,
+   "bbox_min_m": [
+    52.06,
+    4.16,
+    -125.67
+   ],
+   "bbox_max_m": [
+    158.83,
+    7.39,
+    -21.2
+   ]
+  },
+  {
+   "material": "material_26",
+   "triangles": 3000,
+   "vertices": 2000,
+   "bbox_min_m": [
+    56.28,
+    -0.5,
+    -120.65
+   ],
+   "bbox_max_m": [
+    154.61,
+    5.92,
+    -23.63
+   ]
+  },
+  {
+   "material": "table",
+   "triangles": 2768,
+   "vertices": 944,
+   "bbox_min_m": [
+    49.48,
+    5.39,
+    -75.47
+   ],
+   "bbox_max_m": [
+    161.41,
+    10.44,
+    -22.57
+   ]
+  },
+  {
+   "material": "broadcast_metal_gray",
+   "triangles": 2408,
+   "vertices": 620,
+   "bbox_min_m": [
+    93.61,
+    10.51,
+    -16.89
+   ],
+   "bbox_max_m": [
+    117.27,
+    13.49,
+    -8.94
+   ]
+  },
+  {
+   "material": "yellow_chair__4",
+   "triangles": 2352,
+   "vertices": 1344,
+   "bbox_min_m": [
+    72.34,
+    5.4,
+    -114.87
+   ],
+   "bbox_max_m": [
+    138.82,
+    5.67,
+    -99.63
+   ]
+  },
+  {
+   "material": "dome_rec",
+   "triangles": 2160,
+   "vertices": 4320,
+   "bbox_min_m": [
+    45.49,
+    22.37,
+    -131.44
+   ],
+   "bbox_max_m": [
+    165.4,
+    27.99,
+    -11.52
+   ]
+  },
+  {
+   "material": "text_white",
+   "triangles": 1880,
+   "vertices": 983,
+   "bbox_min_m": [
+    72.71,
+    4.87,
+    -113.79
+   ],
+   "bbox_max_m": [
+    140.54,
+    5.06,
+    -100.15
+   ]
+  },
+  {
+   "material": "sign_yellow_2",
+   "triangles": 1998,
+   "vertices": 1579,
+   "bbox_min_m": [
+    47.49,
+    5.24,
+    -129.34
+   ],
+   "bbox_max_m": [
+    163.51,
+    12.51,
+    -15.23
+   ]
+  },
+  {
+   "material": "material_38",
+   "triangles": 1952,
+   "vertices": 1056,
+   "bbox_min_m": [
+    42.87,
+    0.04,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    21.77,
+    -8.91
+   ]
+  },
+  {
+   "material": "material",
+   "triangles": 1829,
+   "vertices": 1504,
+   "bbox_min_m": [
+    -0.43,
+    0.0,
+    -201.46
+   ],
+   "bbox_max_m": [
+    210.27,
+    26.93,
+    45.98
+   ]
+  },
+  {
+   "material": "stand_floor",
+   "triangles": 1736,
+   "vertices": 3218,
+   "bbox_min_m": [
+    61.22,
+    0.2,
+    -131.07
+   ],
+   "bbox_max_m": [
+    150.03,
+    13.11,
+    -27.59
+   ]
+  },
+  {
+   "material": "material_10",
+   "triangles": 1720,
+   "vertices": 2580,
+   "bbox_min_m": [
+    49.1,
+    7.76,
+    -131.0
+   ],
+   "bbox_max_m": [
+    163.82,
+    12.5,
+    -34.44
+   ]
+  },
+  {
+   "material": "gray_chair__1",
+   "triangles": 1680,
+   "vertices": 1008,
+   "bbox_min_m": [
+    72.45,
+    5.12,
+    -114.78
+   ],
+   "bbox_max_m": [
+    138.71,
+    5.63,
+    -99.71
+   ]
+  },
+  {
+   "material": "material_11",
+   "triangles": 1416,
+   "vertices": 944,
+   "bbox_min_m": [
+    49.68,
+    5.28,
+    -75.35
+   ],
+   "bbox_max_m": [
+    161.21,
+    10.41,
+    -22.79
+   ]
+  },
+  {
+   "material": "stand_frame_iron_black",
+   "triangles": 1344,
+   "vertices": 448,
+   "bbox_min_m": [
+    82.64,
+    2.79,
+    -104.72
+   ],
+   "bbox_max_m": [
+    128.51,
+    3.06,
+    -38.77
+   ]
+  },
+  {
+   "material": "material_30",
+   "triangles": 1332,
+   "vertices": 864,
+   "bbox_min_m": [
+    42.87,
+    11.25,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    17.84,
+    -8.91
+   ]
+  },
+  {
+   "material": "material_32",
+   "triangles": 1300,
+   "vertices": 1020,
+   "bbox_min_m": [
+    45.98,
+    10.51,
+    -114.02
+   ],
+   "bbox_max_m": [
+    164.91,
+    13.99,
+    -16.99
+   ]
+  },
+  {
+   "material": "material_20",
+   "triangles": 960,
+   "vertices": 628,
+   "bbox_min_m": [
+    68.69,
+    10.58,
+    -122.72
+   ],
+   "bbox_max_m": [
+    142.19,
+    13.04,
+    -120.06
+   ]
+  },
+  {
+   "material": "material_12_0",
+   "triangles": 896,
+   "vertices": 311,
+   "bbox_min_m": [
+    48.62,
+    4.56,
+    -128.3
+   ],
+   "bbox_max_m": [
+    162.26,
+    7.39,
+    -14.66
+   ]
+  },
+  {
+   "material": "material_35",
+   "triangles": 768,
+   "vertices": 156,
+   "bbox_min_m": [
+    66.39,
+    3.2,
+    -99.6
+   ],
+   "bbox_max_m": [
+    144.76,
+    4.65,
+    -42.89
+   ]
+  },
+  {
+   "material": "__basic_light_gray",
+   "triangles": 687,
+   "vertices": 438,
+   "bbox_min_m": [
+    60.6,
+    -0.5,
+    -116.91
+   ],
+   "bbox_max_m": [
+    150.55,
+    4.85,
+    -26.96
+   ]
+  },
+  {
+   "material": "structure_black",
+   "triangles": 672,
+   "vertices": 204,
+   "bbox_min_m": [
+    43.95,
+    10.11,
+    -121.03
+   ],
+   "bbox_max_m": [
+    166.93,
+    13.99,
+    -82.0
+   ]
+  },
+  {
+   "material": "material_1",
+   "triangles": 640,
+   "vertices": 387,
+   "bbox_min_m": [
+    49.81,
+    13.96,
+    -127.12
+   ],
+   "bbox_max_m": [
+    161.08,
+    14.99,
+    -15.85
+   ]
+  },
+  {
+   "material": "roof_1",
+   "triangles": 592,
+   "vertices": 324,
+   "bbox_min_m": [
+    42.87,
+    22.49,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    28.49,
+    -8.91
+   ]
+  },
+  {
+   "material": "material_41",
+   "triangles": 524,
+   "vertices": 152,
+   "bbox_min_m": [
+    66.14,
+    0.0,
+    -49.84
+   ],
+   "bbox_max_m": [
+    145.01,
+    1.4,
+    -49.02
+   ]
+  },
+  {
+   "material": "black_door",
+   "triangles": 512,
+   "vertices": 208,
+   "bbox_min_m": [
+    43.0,
+    10.5,
+    -114.4
+   ],
+   "bbox_max_m": [
+    167.89,
+    13.49,
+    -77.16
+   ]
+  },
+  {
+   "material": "material_19",
+   "triangles": 484,
+   "vertices": 968,
+   "bbox_min_m": [
+    47.37,
+    10.56,
+    -118.74
+   ],
+   "bbox_max_m": [
+    163.42,
+    11.11,
+    -77.48
+   ]
+  },
+  {
+   "material": "material_8",
+   "triangles": 448,
+   "vertices": 896,
+   "bbox_min_m": [
+    58.48,
+    6.01,
+    -119.74
+   ],
+   "bbox_max_m": [
+    152.41,
+    11.27,
+    -14.28
+   ]
+  },
+  {
+   "material": "material_14",
+   "triangles": 432,
+   "vertices": 468,
+   "bbox_min_m": [
+    63.9,
+    10.52,
+    -114.02
+   ],
+   "bbox_max_m": [
+    148.01,
+    13.98,
+    -16.99
+   ]
+  },
+  {
+   "material": "material_34",
+   "triangles": 412,
+   "vertices": 256,
+   "bbox_min_m": [
+    61.67,
+    -0.6,
+    -102.2
+   ],
+   "bbox_max_m": [
+    149.49,
+    0.2,
+    -39.7
+   ]
+  },
+  {
+   "material": "외부",
+   "triangles": 376,
+   "vertices": 96,
+   "bbox_min_m": [
+    39.71,
+    -0.71,
+    -137.24
+   ],
+   "bbox_max_m": [
+    171.17,
+    29.2,
+    -5.78
+   ]
+  },
+  {
+   "material": "roof",
+   "triangles": 368,
+   "vertices": 736,
+   "bbox_min_m": [
+    82.31,
+    27.92,
+    -94.39
+   ],
+   "bbox_max_m": [
+    128.58,
+    27.99,
+    -48.58
+   ]
+  },
+  {
+   "material": "material_13",
+   "triangles": 320,
+   "vertices": 193,
+   "bbox_min_m": [
+    42.87,
+    13.99,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    14.92,
+    -8.91
+   ]
+  },
+  {
+   "material": "material_31",
+   "triangles": 288,
+   "vertices": 312,
+   "bbox_min_m": [
+    45.98,
+    10.52,
+    -71.13
+   ],
+   "bbox_max_m": [
+    164.91,
+    13.98,
+    -70.08
+   ]
+  },
+  {
+   "material": "fire_box",
+   "triangles": 232,
+   "vertices": 128,
+   "bbox_min_m": [
+    72.52,
+    4.76,
+    -113.97
+   ],
+   "bbox_max_m": [
+    140.74,
+    5.16,
+    -100.06
+   ]
+  },
+  {
+   "material": "Metal_Steel_Textured_White",
+   "triangles": 210,
+   "vertices": 68,
+   "bbox_min_m": [
+    71.6,
+    4.74,
+    -115.95
+   ],
+   "bbox_max_m": [
+    139.55,
+    4.78,
+    -99.98
+   ]
+  },
+  {
+   "material": "material_33",
+   "triangles": 212,
+   "vertices": 180,
+   "bbox_min_m": [
+    61.25,
+    -0.6,
+    -102.48
+   ],
+   "bbox_max_m": [
+    149.9,
+    3.65,
+    -39.42
+   ]
+  },
+  {
+   "material": "material_5",
+   "triangles": 139,
+   "vertices": 135,
+   "bbox_min_m": [
+    97.57,
+    4.01,
+    -26.8
+   ],
+   "bbox_max_m": [
+    113.82,
+    6.31,
+    -19.03
+   ]
+  },
+  {
+   "material": "material_42",
+   "triangles": 128,
+   "vertices": 128,
+   "bbox_min_m": [
+    42.87,
+    13.99,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    14.02,
+    -8.91
+   ]
+  },
+  {
+   "material": "__sliding_wall",
+   "triangles": 128,
+   "vertices": 128,
+   "bbox_min_m": [
+    42.87,
+    10.51,
+    -134.06
+   ],
+   "bbox_max_m": [
+    168.02,
+    22.49,
+    -8.91
+   ]
+  },
+  {
+   "material": "material_37",
+   "triangles": 112,
+   "vertices": 32,
+   "bbox_min_m": [
+    70.45,
+    0.0,
+    -100.34
+   ],
+   "bbox_max_m": [
+    140.7,
+    2.55,
+    -93.5
+   ]
+  },
+  {
+   "material": "material_21",
+   "triangles": 88,
+   "vertices": 96,
+   "bbox_min_m": [
+    70.03,
+    12.15,
+    -120.83
+   ],
+   "bbox_max_m": [
+    140.85,
+    12.59,
+    -120.2
+   ]
+  },
+  {
+   "material": "Orange_wall",
+   "triangles": 73,
+   "vertices": 77,
+   "bbox_min_m": [
+    46.12,
+    10.51,
+    -118.04
+   ],
+   "bbox_max_m": [
+    164.77,
+    13.51,
+    -77.31
+   ]
+  },
+  {
+   "material": "material_29",
+   "triangles": 64,
+   "vertices": 128,
+   "bbox_min_m": [
+    43.09,
+    16.88,
+    -133.83
+   ],
+   "bbox_max_m": [
+    167.8,
+    17.77,
+    -9.13
+   ]
+  },
+  {
+   "material": "material_24",
+   "triangles": 52,
+   "vertices": 56,
+   "bbox_min_m": [
+    69.82,
+    11.22,
+    -120.58
+   ],
+   "bbox_max_m": [
+    141.07,
+    11.6,
+    -120.45
+   ]
+  },
+  {
+   "material": "metal",
+   "triangles": 36,
+   "vertices": 24,
+   "bbox_min_m": [
+    96.51,
+    9.51,
+    -15.91
+   ],
+   "bbox_max_m": [
+    99.23,
+    10.51,
+    -15.25
+   ]
+  },
+  {
+   "material": "Basic_Tile",
+   "triangles": 36,
+   "vertices": 36,
+   "bbox_min_m": [
+    60.6,
+    0.0,
+    -116.91
+   ],
+   "bbox_max_m": [
+    150.55,
+    0.0,
+    -26.96
+   ]
+  },
+  {
+   "material": "material_27",
+   "triangles": 32,
+   "vertices": 40,
+   "bbox_min_m": [
+    94.67,
+    11.81,
+    -16.75
+   ],
+   "bbox_max_m": [
+    116.22,
+    13.04,
+    -15.4
+   ]
+  },
+  {
+   "material": "material_16",
+   "triangles": 28,
+   "vertices": 56,
+   "bbox_min_m": [
+    49.6,
+    11.25,
+    -115.01
+   ],
+   "bbox_max_m": [
+    161.29,
+    12.64,
+    -82.73
+   ]
+  },
+  {
+   "material": "material_36",
+   "triangles": 24,
+   "vertices": 32,
+   "bbox_min_m": [
+    60.42,
+    -0.6,
+    -103.03
+   ],
+   "bbox_max_m": [
+    150.73,
+    -0.6,
+    -38.85
+   ]
+  },
+  {
+   "material": "material_22",
+   "triangles": 20,
+   "vertices": 16,
+   "bbox_min_m": [
+    70.8,
+    10.99,
+    -121.34
+   ],
+   "bbox_max_m": [
+    140.09,
+    11.09,
+    -121.25
+   ]
+  },
+  {
+   "material": "material_43",
+   "triangles": 14,
+   "vertices": 28,
+   "bbox_min_m": [
+    71.44,
+    4.74,
+    -115.94
+   ],
+   "bbox_max_m": [
+    139.71,
+    4.74,
+    -99.02
+   ]
+  },
+  {
+   "material": "slope",
+   "triangles": 8,
+   "vertices": 16,
+   "bbox_min_m": [
+    65.89,
+    3.91,
+    -119.81
+   ],
+   "bbox_max_m": [
+    145.0,
+    4.76,
+    -100.93
+   ]
+  },
+  {
+   "material": "glass",
+   "triangles": 8,
+   "vertices": 16,
+   "bbox_min_m": [
+    72.68,
+    4.84,
+    -113.81
+   ],
+   "bbox_max_m": [
+    140.58,
+    5.08,
+    -100.12
+   ]
+  },
+  {
+   "material": "material_28",
+   "triangles": 4,
+   "vertices": 8,
+   "bbox_min_m": [
+    93.61,
+    10.59,
+    -15.31
+   ],
+   "bbox_max_m": [
+    117.27,
+    13.06,
+    -10.06
+   ]
+  },
+  {
+   "material": "floor",
+   "triangles": 2,
+   "vertices": 6,
+   "bbox_min_m": [
+    65.75,
+    0.0,
+    -50.58
+   ],
+   "bbox_max_m": [
+    145.4,
+    0.0,
+    -46.68
+   ]
+  }
+ ]
+}
